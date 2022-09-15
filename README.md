@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-**zetvzb/zetvzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Meet Zach Tallevast
 
 - 🔭 I’m currently working on applying machine learning in the Workers' Compensation industry. 
 - 🌱 I’m currently learning the new tidymodels R package and framework. 

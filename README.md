@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on NFL Pick-Em Modeling or the March Madness Kaggle Competition. 
 - 🤔 I’m looking for help with image recognition modeling
 - 💬 Ask me about anything sports related
-- 📫 How to reach me: Visit my Linkedin www.linkedin.com/in/zach-tallevast
+- 📫 How to reach me: zetvzb@gmail.com
 - 😄 Pronouns: He/Him/His
 ----------------------------------------------------
 ### Connect with me: 
@@ -19,7 +19,7 @@
 </div>
 
 ----------------------------------------------------
-### Languages and Tools 
+### Languages and Tools: 
 <div align="left">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>

@@ -1,7 +1,7 @@
 ## <p align = "center"> 👋 Meet Zach Tallevast</p>
 ----------------------------------------------------
-- 🔭 I’m currently working on applying machine learning in the Workers' Compensation industry. 
-- 🌱 I’m currently learning the new tidymodels R package and framework. 
+- 🔭 I’m currently working on applying AI-Engineering Patterns in P&C Commercial Insurance. 
+- 🌱 I’m currently learning multiple AI-Engineering Patterns. 
 - 👯 I’m looking to collaborate on NFL Pick-Em Modeling or the March Madness Kaggle Competition. 
 - 🤔 I’m looking for help with image recognition modeling
 - 💬 Ask me about anything sports related
